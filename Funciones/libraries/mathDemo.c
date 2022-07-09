@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+//Rama student
 int x;
 int name;
 float result;
